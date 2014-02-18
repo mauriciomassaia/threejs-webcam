@@ -8,4 +8,3 @@ Live demo
 =========
 
 http://mmassaia.com/lab/webgl/webcam
-
